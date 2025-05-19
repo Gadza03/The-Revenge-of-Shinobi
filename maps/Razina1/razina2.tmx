@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.10" tiledversion="1.10.2" orientation="orthogonal" renderorder="right-down" width="30" height="8" tilewidth="64" tileheight="64" infinite="0" nextlayerid="10" nextobjectid="42">
+ <editorsettings>
+  <export target="../../DrugaRazina.js" format="js"/>
+ </editorsettings>
+ <tileset firstgid="1" name="Druga_razina1" tilewidth="64" tileheight="64" tilecount="160" columns="20">
+  <image source="Druga_razina1.png" width="1280" height="512"/>
+ </tileset>
+ <tileset firstgid="161" name="Druga_razina" tilewidth="64" tileheight="64" tilecount="152" columns="19" objectalignment="topleft">
+  <image source="Druga_razina.png" width="1234" height="561"/>
+ </tileset>
+ <tileset firstgid="313" name="spike" tilewidth="64" tileheight="64" tilecount="1" columns="1">
+  <image source="spike.png" width="64" height="64"/>
+ </tileset>
+ <tileset firstgid="314" name="Projketili37" tilewidth="64" tileheight="64" tilecount="2" columns="2" objectalignment="topleft">
+  <image source="Projketili37.png" width="128" height="64"/>
+ </tileset>
+ <tileset firstgid="316" name="asseti64x64" tilewidth="64" tileheight="64" tilecount="40" columns="8" objectalignment="topleft">
+  <image source="asseti64x64.png" width="512" height="320"/>
+ </tileset>
+ <tileset firstgid="356" name="boxes2" tilewidth="64" tileheight="64" tilecount="2" columns="2" objectalignment="topleft">
+  <image source="boxes2.png" width="128" height="64"/>
+ </tileset>
+ <tileset firstgid="358" name="spikev2" tilewidth="64" tileheight="64" tilecount="1" columns="1" objectalignment="topleft">
+  <image source="spike.png" width="64" height="64"/>
+ </tileset>
+ <layer id="3" name="Background" width="30" height="8">
+  <data encoding="csv">
+161,162,163,164,165,166,167,168,169,170,171,172,173,174,175,176,177,178,179,196,298,162,163,164,165,166,167,168,169,170,
+180,181,182,183,184,185,186,187,188,189,190,191,192,193,194,195,196,197,198,196,298,181,182,183,184,185,186,187,188,189,
+199,200,201,202,203,204,205,206,207,208,209,210,186,212,213,214,215,216,217,196,199,200,201,202,203,204,205,206,207,208,
+218,219,220,221,222,223,224,225,226,227,228,229,230,231,232,233,234,235,236,196,218,219,220,221,222,223,224,225,226,227,
+237,238,239,240,241,248,243,244,245,246,247,248,249,250,251,252,253,254,255,214,237,238,239,240,241,242,243,244,245,246,
+256,257,258,259,259,298,262,263,264,265,266,298,298,269,270,271,272,273,274,298,256,257,258,259,260,298,262,263,264,265,
+298,298,298,298,298,298,281,300,300,300,300,298,298,298,298,298,298,298,298,298,298,298,298,298,298,298,281,300,300,300,
+267,267,267,267,267,267,300,300,300,300,300,298,298,300,300,300,300,300,300,300,294,295,296,297,298,299,300,300,300,300
+</data>
+ </layer>
+ <layer id="5" name="Platforma" width="30" height="8">
+  <data encoding="csv">
+0,0,0,0,0,0,0,0,0,0,0,0,0,174,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,193,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+199,200,201,202,203,204,205,0,0,0,209,210,0,212,0,0,0,0,0,0,199,200,201,202,203,204,205,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,231,0,0,0,289,0,0,218,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,357,0,0,0,0,250,0,0,0,0,0,0,237,0,0,0,0,0,0,0,357,0,
+258,258,258,258,258,0,262,258,258,258,258,0,0,258,258,258,258,258,274,267,267,267,267,267,267,0,281,266,266,266,
+0,0,0,0,0,0,281,0,0,0,300,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,281,0,0,0,
+258,258,258,258,258,258,0,0,0,0,300,258,258,258,258,258,258,258,258,258,270,270,270,270,270,270,0,0,0,0
+</data>
+ </layer>
+ <objectgroup id="4" name="objects">
+  <properties>
+   <property name="class" value="items"/>
+  </properties>
+  <object id="6" name="Projektil1" gid="314" x="512" y="64" width="64" height="64"/>
+  <object id="7" name="Projektil2" gid="315" x="576" y="64" width="64" height="64"/>
+  <object id="8" name="c1" gid="346" x="128" y="384" width="64" height="64"/>
+  <object id="9" name="c2" gid="346" x="448" y="256" width="64" height="64"/>
+  <object id="10" name="c3" gid="346" x="576" y="256" width="64" height="64"/>
+  <object id="11" name="c4" gid="346" x="896" y="256" width="64" height="64"/>
+  <object id="12" name="c7" gid="346" x="1216" y="384" width="64" height="64"/>
+  <object id="13" name="c6" gid="346" x="1088" y="256" width="64" height="64"/>
+  <object id="14" name="c5" gid="346" x="960" y="384" width="64" height="64"/>
+  <object id="15" name="c8" gid="346" x="768" y="64" width="64" height="64"/>
+  <object id="22" name="c9" gid="346" x="1344" y="256" width="64" height="64"/>
+  <object id="23" name="c11" gid="346" x="1792" y="192" width="64" height="64"/>
+  <object id="24" name="c10" gid="346" x="1408" y="64" width="64" height="64"/>
+  <object id="25" name="mud" gid="186" x="897" y="307" width="383" height="13"/>
+  <object id="38" name="spike1" gid="358" x="101" y="384" width="27" height="64"/>
+  <object id="39" name="spike2" gid="358" x="256" y="384" width="30.5" height="64"/>
+  <object id="40" name="spike3" gid="358" x="927" y="384" width="33" height="64"/>
+  <object id="41" name="spike4" gid="358" x="1088" y="384" width="38" height="64"/>
+ </objectgroup>
+ <layer id="8" name="Boss" width="30" height="8">
+  <properties>
+   <property name="class" value="boss"/>
+  </properties>
+  <data encoding="csv">
+332,333,334,335,336,337,338,339,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+</data>
+ </layer>
+ <layer id="7" name="Enemy-mumia" width="30" height="8">
+  <properties>
+   <property name="class" value="mummy"/>
+  </properties>
+  <data encoding="csv">
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+342,343,344,345,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+</data>
+ </layer>
+ <layer id="9" name="Joe" width="30" height="8">
+  <properties>
+   <property name="class" value="joe"/>
+  </properties>
+  <data encoding="csv">
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+324,325,326,327,328,329,330,331,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+</data>
+ </layer>
+</map>

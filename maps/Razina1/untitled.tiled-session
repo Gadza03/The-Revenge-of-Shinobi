@@ -1,0 +1,233 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "razina2.tmx",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "fileStates": {
+        "": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "#Druga_razina1": {
+            "scaleInEditor": 1
+        },
+        "#asseti64x64": {
+            "scaleInEditor": 1
+        },
+        "C:/Users/Mate Gadza/OneDrive/Desktop/4. Semestar/OOP/noviP/Projektili.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/Mate Gadza/OneDrive/Desktop/4. Semestar/OOP/noviP/razina1.tmx": {
+            "scale": 0.5244791666666667,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 961.9066534260177,
+                "y": 224.98510427010922
+            }
+        },
+        "C:/Users/Mate Gadza/OneDrive/Desktop/4. Semestar/OOP/noviP/razina1.tmx#Prva_razina7": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Mate Gadza/OneDrive/Desktop/4. Semestar/OOP/noviP/razina1.tmx#asseti64x64": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Mate Gadza/OneDrive/Desktop/4. Semestar/OOP/noviP/razina1.tmx#boxes": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Mate Gadza/OneDrive/Desktop/4. Semestar/OOP/noviP/razina1.tmx#boxes2": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Mate Gadza/OneDrive/Desktop/OOP10_rjesenje-pucanjeViseProjektila (1)/OOP10_rjesenje-pucanjeViseProjektila/maps/Platforma3/v10.tmx": {
+            "scale": 0.6085937499999999,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 640,
+                "y": 320.41078305519903
+            }
+        },
+        "C:/Users/Mate Gadza/OneDrive/Desktop/OOP10_rjesenje-pucanjeViseProjektila (1)/OOP10_rjesenje-pucanjeViseProjektila/maps/Platforma3/v10.tmx#bg2": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Mate Gadza/OneDrive/Desktop/OOP10_rjesenje-pucanjeViseProjektila (1)/OOP10_rjesenje-pucanjeViseProjektila/maps/Platforma3/v10.tmx#dino": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Mate Gadza/OneDrive/Desktop/OOP10_rjesenje-pucanjeViseProjektila (1)/OOP10_rjesenje-pucanjeViseProjektila/maps/Platforma3/v10.tmx#grass_dirt_water": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Mate Gadza/OneDrive/Desktop/OOP10_rjesenje-pucanjeViseProjektila (1)/OOP10_rjesenje-pucanjeViseProjektila/maps/Platforma3/v10.tmx#racoon": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Mate Gadza/OneDrive/Desktop/OOP10_rjesenje-pucanjeViseProjektila (1)/OOP10_rjesenje-pucanjeViseProjektila/maps/Platforma3/v10.tmx#spikeCoin": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Mate Gadza/OneDrive/Desktop/projekt_predlozak/projekt_predlozak/maps/myProject/razina1.tmx": {
+            "scale": 0.5244791666666667,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 959.9999999999999,
+                "y": 221.17179741807342
+            }
+        },
+        "C:/Users/Mate Gadza/OneDrive/Desktop/projekt_predlozak/projekt_predlozak/maps/myProject/razina1.tmx#Prva_razina": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Mate Gadza/OneDrive/Desktop/projekt_predlozak/projekt_predlozak/maps/myProject/razina1.tmx#Prva_razina7x64H": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Mate Gadza/OneDrive/Desktop/projekt_predlozak/projekt_predlozak/maps/myProject/razina1.tmx#backgroundColor": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Mate Gadza/OneDrive/Desktop/projekt_predlozak/projekt_predlozak/maps/myProject/razina1.tmx#box": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Mate Gadza/OneDrive/Desktop/projekt_predlozak/projekt_predlozak/maps/myProject/razina1.tmx#dog": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Mate Gadza/OneDrive/Desktop/projekt_predlozak/projekt_predlozak/maps/myProject/razina1.tmx#enemy-mumija": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Mate Gadza/OneDrive/Desktop/projekt_predlozak/projekt_predlozak/maps/myProject/razina1.tmx#heart (1)": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Mate Gadza/OneDrive/Desktop/projekt_predlozak/projekt_predlozak/maps/myProject/razina1.tmx#jeoAttack": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Mate Gadza/OneDrive/Desktop/projekt_predlozak/projekt_predlozak/maps/myProject/razina1.tmx#joeWalk": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Mate Gadza/OneDrive/Desktop/projekt_predlozak/projekt_predlozak/maps/myProject/razina1.tmx#money-bag": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Mate Gadza/OneDrive/Desktop/projekt_predlozak/projekt_predlozak/maps/myProject/razina2.tmx": {
+            "scale": 0.7867187499999999,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 640.6355511420061,
+                "y": 224.98510427010922
+            }
+        },
+        "C:/Users/Mate Gadza/OneDrive/Desktop/projekt_predlozak/projekt_predlozak/maps/myProject/razina2.tmx#boss": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Mate Gadza/OneDrive/Desktop/projekt_predlozak/projekt_predlozak/maps/myProject/razina2.tmx#boss-razina-7x64H": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Mate Gadza/OneDrive/Desktop/projekt_predlozak/projekt_predlozak/maps/myProject/razina2.tmx#heart (1)": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Mate Gadza/OneDrive/Desktop/projekt_predlozak/projekt_predlozak/maps/myProject/razina2.tmx#jeoAttack": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Mate Gadza/OneDrive/Desktop/projekt_predlozak/projekt_predlozak/maps/myProject/razina2.tmx#joeWalk": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Mate Gadza/OneDrive/Desktop/projekt_predlozak/projekt_predlozak/maps/myProject/razina2.tmx#money-bag": {
+            "scaleInDock": 1
+        },
+        "razina1.tmx": {
+            "expandedObjectLayers": [
+                7
+            ],
+            "scale": 0.5,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 305,
+                "y": -152
+            }
+        },
+        "razina1.tmx#Projektili": {
+            "scaleInDock": 2,
+            "scaleInEditor": 1
+        },
+        "razina1.tmx#Projketili37": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "razina1.tmx#Prva_razina7": {
+            "scaleInDock": 0.125
+        },
+        "razina1.tmx#asseti64x64": {
+            "scaleInDock": 0.75,
+            "scaleInEditor": 1
+        },
+        "razina1.tmx#boxes": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "razina1.tmx#boxes2": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "razina2.tmx": {
+            "expandedObjectLayers": [
+                4
+            ],
+            "scale": 0.75,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 1006,
+                "y": 492
+            }
+        },
+        "razina2.tmx#Druga_razina": {
+            "scaleInDock": 0.75,
+            "scaleInEditor": 1
+        },
+        "razina2.tmx#Druga_razina1": {
+            "scaleInDock": 0.75,
+            "scaleInEditor": 1
+        },
+        "razina2.tmx#Projketili37": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "razina2.tmx#asseti64x64": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "razina2.tmx#boxes2": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "razina2.tmx#spike": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "razina2.tmx#spikev2": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        }
+    },
+    "last.exportedFilePath": "C:/Users/Mate Gadza/OneDrive/Desktop/OOP10_rjesenje-pucanjeViseProjektila (1)/OOP10_rjesenje-pucanjeViseProjektila - Copy",
+    "last.imagePath": "C:/Users/Mate Gadza/OneDrive/Desktop/OOP10_rjesenje-pucanjeViseProjektila (1)/OOP10_rjesenje-pucanjeViseProjektila - Copy/maps/Razina1",
+    "map.height": 8,
+    "map.lastUsedExportFilter": "JavaScript map files (*.js)",
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 64,
+    "map.tileWidth": 64,
+    "map.width": 20,
+    "openFiles": [
+        "razina2.tmx"
+    ],
+    "project": "untitled.tiled-project",
+    "recentFiles": [
+        "razina2.tmx",
+        "razina1.tmx",
+        "C:/Users/Mate Gadza/OneDrive/Desktop/OOP10_rjesenje-pucanjeViseProjektila (1)/OOP10_rjesenje-pucanjeViseProjektila/maps/Platforma3/v10.tmx",
+        "C:/Users/Mate Gadza/OneDrive/Desktop/4. Semestar/OOP/noviP/Projektili.tsx",
+        "C:/Users/Mate Gadza/OneDrive/Desktop/4. Semestar/OOP/noviP/razina1.tmx",
+        "C:/Users/Mate Gadza/OneDrive/Desktop/projekt_predlozak/projekt_predlozak/maps/myProject/razina1.tmx",
+        "C:/Users/Mate Gadza/OneDrive/Desktop/projekt_predlozak/projekt_predlozak/maps/myProject/razina2.tmx"
+    ],
+    "tileset.embedInMap": true,
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 64,
+        "width": 64
+    }
+}
